@@ -17,6 +17,7 @@
 		8E4B96132191DAB20044D56D /* RequestHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4B96122191DAB20044D56D /* RequestHandler.swift */; };
 		8E4B961521927CFA0044D56D /* CompanyRegPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4B961421927CFA0044D56D /* CompanyRegPageViewController.swift */; };
 		8E5A76B4219558B0008E1661 /* UIButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E5A76B3219558B0008E1661 /* UIButtonExtension.swift */; };
+		8E734C91219E5A9F00868D50 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E734C90219E5A9F00868D50 /* HomeViewController.swift */; };
 		8EE93BB4219DE14900E95F86 /* UITextFieldExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE93BB3219DE14900E95F86 /* UITextFieldExtension.swift */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		8E4B96122191DAB20044D56D /* RequestHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestHandler.swift; sourceTree = "<group>"; };
 		8E4B961421927CFA0044D56D /* CompanyRegPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompanyRegPageViewController.swift; sourceTree = "<group>"; };
 		8E5A76B3219558B0008E1661 /* UIButtonExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonExtension.swift; sourceTree = "<group>"; };
+		8E734C90219E5A9F00868D50 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		8EE93BB3219DE14900E95F86 /* UITextFieldExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITextFieldExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -76,6 +78,7 @@
 				8E4B96122191DAB20044D56D /* RequestHandler.swift */,
 				8E5A76B3219558B0008E1661 /* UIButtonExtension.swift */,
 				8EE93BB3219DE14900E95F86 /* UITextFieldExtension.swift */,
+				8E734C90219E5A9F00868D50 /* HomeViewController.swift */,
 			);
 			path = AccugentixApp;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				8E4B95FE219122AB0044D56D /* ViewController.swift in Sources */,
 				8E4B96132191DAB20044D56D /* RequestHandler.swift in Sources */,
 				8E4B9611219155F00044D56D /* CustomerRegViewController.swift in Sources */,
+				8E734C91219E5A9F00868D50 /* HomeViewController.swift in Sources */,
 				8E5A76B4219558B0008E1661 /* UIButtonExtension.swift in Sources */,
 				8E4B960E219143DC0044D56D /* RegisterationViewController.swift in Sources */,
 				8E4B95FC219122AB0044D56D /* AppDelegate.swift in Sources */,
